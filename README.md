@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ssuhung Yeh
+- 🇹🇼 I'm a software developer from Taiwan
+- 🎸 I'm a music nerd, who loves to listen to many (literally many) kinds of music
+- 🎹 Also, I make music from time to time
+- 🏠 Checkout [ssuhung.github.io](https://ssuhung.github.io) to read more
