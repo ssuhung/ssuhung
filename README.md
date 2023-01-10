@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ssuhung Yeh
-- 🇹🇼 I'm a Taiwanese, currently pursuing a master's degree in Japan
+- 👋 Hi, My name is Ssuhung Yeh
+- 🇹🇼 Taiwanese, currently pursuing a master's degree in Japan
 - 🎸 I'm a music nerd, who loves to listen to many kinds of music, and I'm always willing to explore new genres
 - 🎹 Also, I make music from time to time
 - 🏠 Checkout [ssuhung.github.io](https://ssuhung.github.io) to read more
